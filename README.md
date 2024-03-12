@@ -23,7 +23,7 @@ Advice on transitioning to full-stack development
 
 📫 How to reach me:
 Email: akash02899@gmail.com
-LinkedIn: [Akash B's LinkedIn Profile]([https://www.linkedin.com/in/akash/](https://www.linkedin.com/in/akash-b-7648b426b/))
+LinkedIn: [Akash B's LinkedIn Profile]((https://www.linkedin.com/in/akash-b-7648b426b/))
 
 ⚡ Fun fact:
 I'm always up for a challenge, whether it's coding-related or trying out a new hobby!
